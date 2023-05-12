@@ -27,7 +27,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Rails React] <a name="about-project"></a>
+# 📖 [Hello Rails Backend] <a name="about-project"></a>
 
 **[Hello Rails Back End]** is a Rails backend to provide the front end with greetings Api
 
@@ -115,6 +115,10 @@ To run the project, execute the following command:
 - LinkedIn: [@Asif Amin](https://www.linkedin.com/in/asifaminisonline/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!--Hello-React-Frontend-->
+
+Frontend link: [Frontend](https://github.com/asifaminisonline/Hello-React-Frontend.git)
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -145,6 +149,6 @@ I would like to thank microverse for providing all the reading resources to buld
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](#) licensed.
+This project is [MIT](https://github.com/asifaminisonline/Hello-Rails-Backend/blob/rails-backend/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
